@@ -5,5 +5,4 @@ language's I know :
 - python (full)
 - Arduino (Full)
 
-im learning java for more power.
-currently, I'm working on xenon ware, the fork of liquid bounce, and also on potato Client ( a legit client ) 
+im learning java . 
